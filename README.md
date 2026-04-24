@@ -2,6 +2,8 @@
 
 A centralized repository tracking my progression through my web development coursework. This contains a collection of assignments and micro-projects demonstrating my transition from foundational markup to modern front-end development.
 
+"A progressive collection of web development coursework, tracking my journey from foundational HTML/CSS to modern React and Tailwind applications."
+
 ## Progression & Technologies
 
 This repository documents my learning curve across the following technologies:
